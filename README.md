@@ -3,4 +3,4 @@ TeleNostrConnect is a seamless integration tool that effortlessly gathers posts 
 
 # Iris.to and damus
 
-Requirement : pip install nostrpy
+Requirement : pip install nostrpy & pip install pyTelegramBotAPI
